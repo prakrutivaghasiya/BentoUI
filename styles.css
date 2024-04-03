@@ -24,7 +24,7 @@
   .grid-container {
     position: relative;
     width: 100%;
-    max-width: 950px;
+    max-width: 95vw;
     margin: 0 auto;
     background: rgba(1, 1, 1, 0.15);
     border-radius: 8px;
